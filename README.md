@@ -1,7 +1,7 @@
 # <img width="70" height="71" alt="image" src="https://github.com/user-attachments/assets/9b0e690b-4a57-4d1e-be8c-30960c0bd902" /> HelpSense — Smart Accessibility Companion
 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/86fa4215-523f-47fa-a04c-d0521d12b1c6" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6a29a9c2-4735-4746-a579-07e6811fb6e3" />
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e08322ef-8569-48a7-8fa8-8013df3be077" />
 
