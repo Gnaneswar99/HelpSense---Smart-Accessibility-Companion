@@ -1,0 +1,29 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android
+/androidApp/build/
+
+# Shared
+/shared/build/
+
+# iOS
+/iosApp/build/
+/iosApp/Pods/
+
+# buildSrc
+/buildSrc/build/
+/buildSrc/.gradle/
+
+# ML Models (large files - use Git LFS)
+*.tflite
+*.mlmodel
+*.mlpackage

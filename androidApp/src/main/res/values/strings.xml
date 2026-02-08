@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelpSense</string>
+    <string name="module_vision">Vision</string>
+    <string name="module_audio">Audio</string>
+    <string name="module_navigation">Navigation</string>
+    <string name="module_communication">Communication</string>
+</resources>
