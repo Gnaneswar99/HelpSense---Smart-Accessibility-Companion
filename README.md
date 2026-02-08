@@ -1,5 +1,8 @@
 # 🤝 HelpSense — Smart Accessibility Companion
 
+<img width="190" height="189" alt="image" src="https://github.com/user-attachments/assets/e08322ef-8569-48a7-8fa8-8013df3be077" />
+
+
 An on-device AI accessibility app built with **Kotlin Multiplatform (KMM)** — helping people with visual, hearing, and mobility impairments navigate the world through real-time image captioning, sound classification, accessible navigation, and communication tools.
 
 > **All AI runs on-device** — no internet required, no data leaves your phone.
